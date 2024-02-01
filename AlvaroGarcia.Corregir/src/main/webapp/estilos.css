@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+.espacios {
+	letter-spacing: 5px;
+	color: black;
+	text-align: center;
+	padding: 5px;
+}
+
+.lineaDoble {
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-decoration-color: red;
+}
+
+td:hover {
+	background-color: blue;
+}
+
+.borde {
+	border-collapse: collapse;
+	background-color: lightgreen;
+	color: white;
+}
+
+.azul {
+	background-color: skyblue;
+}
